@@ -1,0 +1,1 @@
+export {MyModule} from './app.module.js';
